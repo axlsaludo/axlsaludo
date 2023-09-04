@@ -5,7 +5,8 @@
 
 ### Languages and Tools:
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Spring_Boot-informational?style=flat&logoColor=white&color=2bbc8a)
+![]([https://img.shields.io/badge/Code-Spring_Boot-informational?style=flat&logoColor=white&color=2bbc8a](https://img.shields.io/badge/linux?logo=penguin&logoColor=white&label=linux
+))
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logoColor=white&color=2bbc8a)
