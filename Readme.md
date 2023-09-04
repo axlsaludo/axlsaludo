@@ -20,3 +20,5 @@ Feel free to explore my projects, share your thoughts, or even collaborate with 
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Terminal-informational?style=flat&logoColor=white&color=2bbc8a)
 
+### You can Follow me here:
+[Spotify](https://open.spotify.com/artist/2fn8GXn4sJ3MPYOe9MJJjm?si=VBYo1oOTRxaSan69K3xIJQ)
