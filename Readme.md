@@ -1,4 +1,4 @@
-# Hi There 👋
+# Hi There 👋🏽👨🏽‍💻
 Welcome to my profile of such things. 
 
 This is where I store and share my Open Source Stuff. I am currently taking an undergrad degree for computer engineering. My journey in computer engineering has been filled with exciting challenges and endless opportunities to learn and grow.
