@@ -1,4 +1,5 @@
 # Hi There 👋
 
-🐧 I love Linux
-Open source is <3
+- Open source is <3
+- 🐧 I love Linux
+
