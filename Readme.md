@@ -23,7 +23,7 @@ Feel free to explore my projects, share your thoughts, or even collaborate with 
 ![](https://img.shields.io/badge/Tools-Terminal-informational?style=flat&logoColor=white&color=2bbc8a)
 
 ### Other Stuff that I do:
-- I write Music follow me on [Spotify](https://open.spotify.com/artist/2fn8GXn4sJ3MPYOe9MJJjm?si=VBYo1oOTRxaSan69K3xIJQ).
-- I also edit videos and other stuff here is my [Youtube Channel](https://www.youtube.com/@ewanmoak/).
-- And a little bit of gaming on the other [Youtube Channel](https://www.youtube.com/@ewanmoak8384).
-- Photography? yes i do that too here is my [Pexels](https://www.pexels.com/@ewanmoak/) link.
+- 🎶 I write Music follow me on [Spotify](https://open.spotify.com/artist/2fn8GXn4sJ3MPYOe9MJJjm?si=VBYo1oOTRxaSan69K3xIJQ).
+- 🎬 I also edit videos and other stuff here is my [Youtube Channel](https://www.youtube.com/@ewanmoak/).
+- 🎮 And a little bit of gaming on the other [Youtube Channel](https://www.youtube.com/@ewanmoak8384).
+- 📷 Photography? yes i do that too here is my [Pexels](https://www.pexels.com/@ewanmoak/) link.
