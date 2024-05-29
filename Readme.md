@@ -1,9 +1,8 @@
-# Hi There 👋🏽👨🏽‍💻
-Welcome to my profile of such things. 
+# Hi there!
 
-This is where I store and share my Open Source Stuff. I am currently taking an undergrad degree for computer engineering. My journey in computer engineering has been filled with exciting challenges and endless opportunities to learn and grow.
-  
-Feel free to explore my projects, share your thoughts, or even collaborate with me on exciting endeavors. Together, we can continue to push the boundaries of computer engineering and make a positive impact on the world of technology. Open source is ❤️.
+Welcome to my GitHub profile. I'm Kurt Axl Saludo, an undergraduate computer engineering student passionate about open-source projects. My journey in computer engineering involves tackling exciting challenges and continuously learning.
+
+I work on diverse projects, including micromouse robots, website development, and advanced security systems. Feel free to explore my repositories, share your thoughts, or collaborate with me on innovative endeavors. Let's push the boundaries of technology together. Open source is ❤️.
 
 ### Languages and Tools:
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logoColor=white&color=2bbc8a)
