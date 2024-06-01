@@ -22,7 +22,7 @@ I work on diverse projects, including micromouse robots, website development, an
 ![](https://img.shields.io/badge/Tools-Terminal-informational?style=flat&logoColor=white&color=2bbc8a)
 
 
-![ewanmoak's Stats](https://github-readme-stats.vercel.app/api?username=ewanmoak&theme=nord&show_icons=true&hide_border=true&count_private=true)
-![ewanmoak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ewanmoak&theme=nord&hide_border=true)
-![ewanmoak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ewanmoak&theme=nord&show_icons=true&hide_border=true&layout=compact)
+![ewanmoak's Stats](https://github-readme-stats.vercel.app/api?username=ewanmoak&theme=nord&show_icons=true&hide_border=true&count_private=true_hide_rank=false)
+![ewanmoak's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ewanmoak&theme=nord&hide_border=true_hide_rank=false)
+![ewanmoak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ewanmoak&theme=nord&show_icons=true&hide_border=true&layout=compact_hide_rank=false)
 
