@@ -20,3 +20,7 @@ I work on diverse projects, including micromouse robots, website development, an
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Terminal-informational?style=flat&logoColor=white&color=2bbc8a)
+
+
+![ewanmoak's Stats](https://github-readme-stats.vercel.app/api?username=ewanmoak&theme=nord&show_icons=true&hide_border=true&count_private=true)
+![ewanmoak's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ewanmoak&theme=nord&show_icons=true&hide_border=true&layout=compact)
